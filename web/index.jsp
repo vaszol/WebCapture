@@ -33,6 +33,13 @@ hello!<br/>
       <input id="button" type="button" value="Жми!" />
     </td>
   </tr>
+    <tr>
+        <td colspan="2">
+            <a href="tablet.jsp">
+                <img src="image/paint.jpg">
+            </a>
+        </td>
+    </tr>
 </table>
 
 <script>
